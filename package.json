@@ -1,0 +1,23 @@
+{
+  "name": "devhouse",
+  "version": "1.0.0",
+  "description": "biggut devhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggut/devhouse.git"
+  },
+  "keywords": [
+    "biggut",
+    "devhouse"
+  ],
+  "author": "biggut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biggut/devhouse/issues"
+  },
+  "homepage": "https://github.com/biggut/devhouse#readme"
+}
